@@ -1,0 +1,6 @@
+The goodies selected for distribution  are:
+Fp:7980,
+mo:9800,
+Alexa:9999,
+Dc:11101
+And the difference between the chosen goodie with highest price and the lowest price is 3121

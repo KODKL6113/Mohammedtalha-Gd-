@@ -1,0 +1,15 @@
+number of employees:4
+Goodies and Prices:
+    
+    fp: 7980,
+    Ipods: 22349,
+    MI_band: 999,
+    cp: 2799,
+    mp: 229900, 
+    dc: 11101,
+    alexa: 9999,
+    st: 2195,
+    MO: 9800,
+    scale: 4999,
+
+  
